@@ -126,8 +126,8 @@ This application receives WhatsApp messages from students, parses their details,
 ## System Flow Diagram
 
 ![Alt Text](assets/diagram.png)
-Description:
-Student sends message → Twilio Sandbox → Cloudflare Tunnel → Local Backend → Twilio API → Student receives reply.
+
+- Student sends message → Twilio Sandbox → Cloudflare Tunnel → Local Backend → Twilio API → Student receives reply.
 
 ## Notes
 
