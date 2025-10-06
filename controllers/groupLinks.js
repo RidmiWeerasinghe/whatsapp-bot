@@ -3,6 +3,7 @@ const groupLinks = {
   "6_english": "https://chat.whatsapp.com/invite/xxxxxxx",
   "6_sinhala": "https://chat.whatsapp.com/invite/yyyyyyy",
   "7_english": "https://chat.whatsapp.com/invite/zzzzzzz",
+  "7_sinhala": "https://chat.whatsapp.com/invite/zzzzzzz",
   // add more as needed
 };
 
